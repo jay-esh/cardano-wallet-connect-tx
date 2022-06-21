@@ -11,6 +11,5 @@ Then just run
 ```
 npm start
 ```
-### The JUICE is in the App.js file
 
 
